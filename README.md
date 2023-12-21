@@ -57,6 +57,3 @@ Histograms are saved as PNG files.
 Pair plots are displayed or saved based on the species.
 
 
-Notes
-Make sure to adjust the file path if the dataset is stored in a different location.
-Additional modifications or analyses can be added to extend the functionality of the script.
